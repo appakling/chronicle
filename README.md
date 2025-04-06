@@ -16,7 +16,7 @@ index.html - home / landing page of your wiki.
       ↳ mc.html - the page that displays information
       ↳ mc.js - the file that contains the information
 ```
-> ![WARNING]
+> [!WARNING]
 >for your pages, make sure that you don't have more than 3 subfolders. ```pages/characters/mc/``` SHOULD be the furthest, or you will have to add extra ```../``` to the css file.
 
 ## contributing
