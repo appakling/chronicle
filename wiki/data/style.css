@@ -25,7 +25,7 @@ nav { /* the top navbar */
 }
 
 .nav-links li a { /* for the navlinks */
-    color: #e0def4;
+    color: blue;
    /* text-decoration: none; */
     padding: 10px 15px;
     display: inline-block;
@@ -38,8 +38,14 @@ nav { /* the top navbar */
 }*/ 
 
 .content { /* main page */
-    padding: 50px 0;
-    text-align: center;
+    padding: 50px 265px;
+    text-align: left;
+}
+
+.bio {
+    padding: 50px 265px;
+    clear: right;
+    text-align: right;
 }
 
 .main-links li { /* links that are styled like nav links, but on the main page*/

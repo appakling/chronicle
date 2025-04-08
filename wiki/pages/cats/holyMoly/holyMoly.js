@@ -4,3 +4,5 @@ function loadText() {
   const myDiv = document.getElementById('name'); // Find the HTML element with id "name"
   myDiv.innerHTML = textToDisplay; // Load the specific text into the element
 }
+
+window.onload = loadText; // load in our text when the window loads
